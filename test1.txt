@@ -1,0 +1,7 @@
+Name p1
+Spot p2
+Place
+
+Name id1
+Home
+Show p2

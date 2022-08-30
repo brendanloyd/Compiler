@@ -1,0 +1,9 @@
+Name p4
+Spot p3
+Place
+Name id2
+.
+{ If p3 << 5 . Show p3 }
+.
+Home
+Show p4

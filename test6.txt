@@ -1,0 +1,9 @@
+Name	p4
+Spot 	p3
+Place
+Name id2
+.
+{ Do Again Flip p3 << 5 . }
+.
+Home
+Show p4
